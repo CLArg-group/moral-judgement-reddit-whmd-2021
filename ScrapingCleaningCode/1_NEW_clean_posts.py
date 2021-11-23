@@ -4,7 +4,7 @@ import time
 #############################################################################
 ####################################INPUT####################################
 
-# select which scraped comments to process
+# select which scraped posts to process
 posts_path = "RawScraped/posts_scraped.csv"
 
 #############################################################################
